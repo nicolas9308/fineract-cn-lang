@@ -46,7 +46,7 @@ ext {
             springboot           : '1.4.1.RELEASE',
             findbugs             : '3.0.1'
     ]
-    changesetId = grgit.head().id
+    //changesetId = grgit.head().id
 }
 
 group 'org.apache.fineract.cn'
